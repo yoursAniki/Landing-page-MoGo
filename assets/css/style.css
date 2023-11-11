@@ -631,7 +631,7 @@ body {
 }
 
 .section--clients {
-	background: url(/assets/imgs/bg_img2.png) center no-repeat;
+	background: url(../imgs/bg_img2.png) center no-repeat;
 	background-size: cover;
 	/*менять тут*/
 	width: 100%;
@@ -1298,7 +1298,7 @@ hr {
 
 .section--map {
 	padding: 20px 0;
-	background: url(/assets/imgs/map_bg.png) center no-repeat;
+	background: url(../imgs/map_bg.png) center no-repeat;
 	background-size: cover;
 	/*менять тут*/
 	width: 100%;
