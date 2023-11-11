@@ -689,7 +689,7 @@ hr {
 
 .section--devices {
 	height: 850px;
-	background: url(/assets/imgs/bg_gray.png) center no-repeat;
+	background: url(../imgs/bg_gray.png) center no-repeat;
 	background-size: cover;
 	padding-bottom: 0px;
 }
