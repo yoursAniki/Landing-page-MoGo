@@ -8,7 +8,7 @@ Simple responsive landing page with burger menu (for phones), navigation (navbar
 HTML + CSS + JS
 ```
 
-## Template
+## Template (PSD)
 
 Check this [page](https://freebiesbug.com/psd-freebies/mogo-free-one-page-psd-template/).
 
