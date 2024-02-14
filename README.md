@@ -1,6 +1,6 @@
 # Landing page (MoGo)
 
-Simple responsive landing page with burger menu (for phones), navigation (navbar), accordion, slider (all in javascript).
+Landing page with burger menu (for phones), navigation (navbar), accordion, slider (all in javascript).
 
 ## Tech stack
 
