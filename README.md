@@ -14,4 +14,4 @@ Check this [page](https://freebiesbug.com/psd-freebies/mogo-free-one-page-psd-te
 
 ## Website
 
-You can try it on [Github pages](https://yoursaniki.github.io/Portfolio-Frontend-Project-MoGo/).
+You can try it on [Github pages](https://yoursaniki.github.io/Landing-page-MoGo/)
